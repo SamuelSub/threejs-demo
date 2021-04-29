@@ -15,3 +15,5 @@ npm run dev
 # Build for production in the dist/ directory
 npm run build
 ```
+
+All credit for the template goes to https://github.com/designcourse/threejs-webpack-starter
