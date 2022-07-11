@@ -1,0 +1,11 @@
+Model Information:
+* title:	Tech-Adaptika - Booth Sample 02
+* source:	https://sketchfab.com/3d-models/tech-adaptika-booth-sample-02-1772ca1da7a043cdbaa582d662eb219c
+* author:	Sebastian Trujillo Vega (https://sketchfab.com/sebastian21555)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Tech-Adaptika - Booth Sample 02" (https://sketchfab.com/3d-models/tech-adaptika-booth-sample-02-1772ca1da7a043cdbaa582d662eb219c) by Sebastian Trujillo Vega (https://sketchfab.com/sebastian21555) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
